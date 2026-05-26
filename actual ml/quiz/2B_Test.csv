@@ -1,0 +1,23 @@
+#    The selling price of houses is to be represented as a function of,,,,,,,,,
+#    other variables.,,,,,,,,,
+#,,,,,,,,,
+"#      A1,  the local selling prices, in hundreds of dollars;",,,,,,,,,
+"#      A2,  the number of bathrooms;",,,,,,,,,
+"#      A3,  the area of the site in thousands of square feet;",,,,,,,,,
+"#      A4,  the size of the living space in thousands of square feet;",,,,,,,,,
+"#      A5,  the number of garages;",,,,,,,,,
+"#      A6,  the number of rooms;",,,,,,,,,
+"#      A7,  the number of bedrooms;",,,,,,,,,
+"#      A8,  the age in years;",,,,,,,,,
+"#      A9, number of fire places.",,,,,,,,,
+"#      B,   the selling price.",,,,,,,,,
+#,,,,,,,,,
+#    We seek a model of the form:,,,,,,,,,
+#,,,,,,,,,
+#    B = A1 * X1 + A2 * X2 + A3 * X3 + A4 * X4 + A5 * X5 + A6 * X6 + A7 * X7,,,,,,,,,
+#      + A8 * X8 + A9 * X9 + A10 * X10 + A11 * X11,,,,,,,,,
+#,,,,,,,,,
+"A1, the local selling prices, in hundreds of dollars;","A2, the number of bathrooms;","A3, the area of the site in thousands of square feet;","A4, the size of the living space in thousands of square feet;","A5, the number of garages;","A6, the number of rooms;","A7, the number of bedrooms;","A8, the age in years;","A9, number of fire places.",B
+6.2712,1,5.52,0.975,1,5,2,30,0,31
+8.2464,1.5,5.15,1.664,2,8,4,50,0,36.9
+7.7841,1.5,7.102,1.376,1,6,3,17,0,40.5
